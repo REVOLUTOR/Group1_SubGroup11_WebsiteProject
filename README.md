@@ -2,7 +2,7 @@
 
 ## Assignment
 
-**Course:** BIT I and BCS I
+**Course:** BCS I
 **Subject:** CSU07212 Web Technologies And Applications
 **Stream:** MAIN
 **Group No.:** 1
