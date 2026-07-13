@@ -3,10 +3,15 @@
 ## Assignment
 
 **Course:** BCS I
+
 **Subject:** CSU07212 Web Technologies And Applications
+
 **Stream:** MAIN
+
 **Group No.:** 1
+
 **Sub-Group:** 11
+
 **Assignment Title:** Design and Develop a Responsive Business Website with a Blog Page Using HTML and CSS Only
 
 ## Group Members
